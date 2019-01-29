@@ -1,0 +1,7 @@
+package pers.wyh.ScpReaderCN.ui.main
+
+import android.arch.lifecycle.ViewModel
+
+class MainViewModel : ViewModel() {
+    // TODO: Implement the ViewModel
+}
