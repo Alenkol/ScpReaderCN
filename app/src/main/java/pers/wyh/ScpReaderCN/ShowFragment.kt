@@ -1,4 +1,4 @@
-package pers.wyh.ScpReaderCN.ui.show
+package pers.wyh.ScpReaderCN
 
 import android.os.Bundle
 import android.view.LayoutInflater

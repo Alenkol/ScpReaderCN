@@ -1,4 +1,4 @@
-package pers.wyh.ScpReaderCN.ui
+package pers.wyh.ScpReaderCN
 
 import androidx.lifecycle.ViewModel
 

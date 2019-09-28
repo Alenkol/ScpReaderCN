@@ -1,7 +1,6 @@
-package pers.wyh.ScpReaderCN.ui
+package pers.wyh.ScpReaderCN
 
 import androidx.fragment.app.Fragment
-import pers.wyh.ScpReaderCN.R
 
 class MainFragment : Fragment() {
 

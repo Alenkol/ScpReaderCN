@@ -1,4 +1,4 @@
-package pers.wyh.ScpReaderCN.ui
+package pers.wyh.ScpReaderCN
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -11,7 +11,6 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import pers.wyh.ScpReaderCN.R
 
 class MainActivity : AppCompatActivity() {
 
